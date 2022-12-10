@@ -48,7 +48,7 @@
 + Fork 된 자신의 저장소를 확인합니다.
   + <img src="./images/guide/2/github_forked.png" alt="Github Forked" width="400"  />
 
-> 각자 확인되어야 할 주소는 <span style="color:red;">`https://github.com/`<Github 유저명>/study-with-angela-yu</span> 입니다.
+> 각자 확인되어야 할 주소는 `https://github.com/<Github 유저명>/study-with-angela-yu` 입니다.
 
 #### 3. Flutter 설치
 
@@ -101,7 +101,7 @@ git config user.name <유저 이름>
     ```
 
 + Fork GUI Client 를 이용할 경우,
-  + <span style="color:red;">Fork workspace 를 프로젝트 폴더로 설정한 이후...</span>
+  + **Fork workspace 를 프로젝트 폴더로 설정한 이후...**
   + <img src="./images/guide/6/fork_add_remote_1.png" alt="Fork Add Remote Step 1" width="400"  />
   + <img src="./images/guide/6/fork_add_remote_2.png" alt="Fork Add Remote Step 2" width="400"  />
   + <img src="./images/guide/6/fork_add_remote_3.png" alt="Fork Add Remote Step 3" width="400"  />
@@ -109,7 +109,7 @@ git config user.name <유저 이름>
   + 항상! Fetch 생활화 하기!!
 
 > Fork 사용시, 'Repositories' 가 보이지 않는다면?
-> 아래 사진에 보이는 메뉴, <span style="color:red;">Rescan Repositories...</span> 를 클릭하면, Repositories 가 보인다.
+> 아래 사진에 보이는 메뉴, **Rescan Repositories...** 를 클릭하면, Repositories 가 보인다.
 > <img src="./images/guide/6/fork_add_remote_issue.png" alt="Fork Repositories Issue" width="160"  />
 
 > FLUS Github Repository 를 Upstream Repository 로 설정하고 싶을 때는 아래, [기타 참고](#flus-github-repository-를-upstream-repository-로-설정하고-싶을-때) 를 확인합니다.
@@ -132,7 +132,7 @@ git config user.name <유저 이름>
   + To 부분에는 <본인의 github 이름> 으로 입혁하고 Push!
     + <img src="./images/guide/7/fork_push_step_3.png" alt="Fork Push Step 3" width="400"  />
 
-> 임의의 브랜치(Branch) 명으로 푸시할 경우 소유주 확인이 힘드니, 꼭! <u>**깃헙(Github) 이름으로 푸시**</u> 부탁드립니다. 양해 부탁드립니다.
+> 임의의 브랜치(Branch) 명으로 푸시할 경우 소유주 확인이 힘드니, 꼭! __깃헙(Github) 이름으로 푸시__ 부탁드립니다. 양해 부탁드립니다.
 
 #### 8. 스터디 & 코드 작성
 
@@ -161,11 +161,11 @@ git config user.name <유저 이름>
 #### 10. [중요! 과제제출!!] Github 에서 PR (Pull Request) 만들기
 
 + 본인 Github 저장소 접속 또는 [FLUS Angela Yu 스터디용 Github 저장소](https://github.com/flus-dev/study-with-angela-yu) 접속
-+ Github 상단 메뉴의 <span style="color:red;">Pull requests</span> 클릭
++ Github 상단 메뉴의 **Pull requests** 클릭
   + <img src="./images/guide/10/pr_step_1.png" alt="Github PR Step 1" width="400"  />
-+ 화면의 <span style="color:red;">Compare & pull request</span> 또는 <span style="color:red;">New pull request</span> 클릭
++ 화면의 **Compare & pull request** 또는 **New pull request** 클릭
   + <img src="./images/guide/10/pr_step_2.png" alt="Github PR Step 2" width="400"  />
-+ 좌측 <span style="color:red;">base</span> 에는 <u>FLUS 의 Github repository 에 있는 본인의 Branch 선택</u>
-  + 항상 <span style="color:red;>좌측 base 와 우측 compare 를 확인할 것!</span>
++ 좌측 **base** 에는 __FLUS 의 Github repository 에 있는 본인의 Branch 선택__
+  + 항상 **좌측 base 와 우측 compare 를 확인할 것!**
   + <img src="./images/guide/10/pr_step_3.png" alt="Github PR Step 3" width="400"  />
 
