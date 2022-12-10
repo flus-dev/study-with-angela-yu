@@ -17,6 +17,7 @@
 ###### Pull Request
 
 `PR 은 Pull Request 의 약자입니다.`
+`Pull Request 는 서버에 업테이트 내용을 받아오는 방법입니다.`
 
 ---
 
